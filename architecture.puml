@@ -1,0 +1,6 @@
+@startuml Architecture technique
+!define AzurePuml https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/release/2-2/dist
+!includeurl AzurePuml/AzureCommon.puml
+
+
+@enduml
